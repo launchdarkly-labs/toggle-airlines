@@ -1,0 +1,26 @@
+const airports = [
+  { "CityName": "New York", "AirportCode": "JFK", "Country": "USA" },
+  { "CityName": "London", "AirportCode": "LHR", "Country": "UK" },
+  { "CityName": "Paris", "AirportCode": "CDG", "Country": "France" },
+  { "CityName": "Tokyo", "AirportCode": "HND", "Country": "Japan" },
+  { "CityName": "Sydney", "AirportCode": "SYD", "Country": "Australia" },
+  { "CityName": "Dubai", "AirportCode": "DXB", "Country": "UAE" },
+  { "CityName": "Beijing", "AirportCode": "PEK", "Country": "China" },
+  { "CityName": "Mumbai", "AirportCode": "BOM", "Country": "India" },
+  { "CityName": "Rio de Janeiro", "AirportCode": "GIG", "Country": "Brazil" },
+  { "CityName": "Cape Town", "AirportCode": "CPT", "Country": "South Africa" },
+  { "CityName": "Moscow", "AirportCode": "SVO", "Country": "Russia" },
+  { "CityName": "Toronto", "AirportCode": "YYZ", "Country": "Canada" },
+  { "CityName": "Los Angeles", "AirportCode": "LAX", "Country": "USA" },
+  { "CityName": "Chicago", "AirportCode": "ORD", "Country": "USA" },
+  { "CityName": "San Francisco", "AirportCode": "SFO", "Country": "USA" },
+  { "CityName": "Atlanta", "AirportCode": "ATL", "Country": "USA" },
+  { "CityName": "Dallas", "AirportCode": "DFW", "Country": "USA" },
+  { "CityName": "Denver", "AirportCode": "DEN", "Country": "USA" },
+  { "CityName": "Seattle", "AirportCode": "SEA", "Country": "USA" },
+  { "CityName": "Miami", "AirportCode": "MIA", "Country": "USA" },
+  { "CityName": "Boston", "AirportCode": "BOS", "Country": "USA" },
+  { "CityName": "Houston", "AirportCode": "IAH", "Country": "USA" },
+];
+
+export default airports;
